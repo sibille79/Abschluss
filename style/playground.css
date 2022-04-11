@@ -1,0 +1,50 @@
+html {
+    background: rgb(5, 0, 0);
+}
+
+body {
+    font-family: "Courier New", Courier, sans-serif;
+    width: 75%;
+}
+
+nav {
+    float:right;
+    font-size: 60px;
+}
+
+nav li {
+    font-size: 60px;
+}
+nav a {
+    color: #ec122f; 
+    text-decoration:none;
+}
+
+nav a:hover {
+    color:  #b3b000;
+}
+#container {
+width: 100%;
+}
+
+#big {
+    font-size: 40px;
+    line-height: 1.4;
+    margin: 60px;
+    max-width: 100%;
+    align-content: center;
+}
+
+#big a {
+    color: #4424c4;
+}
+
+#big a:hover {
+    color:  #b3b000;
+}
+
+#pages {
+    text-align: center;
+    margin: 30px;
+    color:  #fdfdfc;
+}
